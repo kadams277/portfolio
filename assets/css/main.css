@@ -1645,11 +1645,12 @@
 
 	a {
 		text-decoration: underline;
-		color: #f32853;
+		color: white;
 	}
 
 		a:hover {
 			text-decoration: none;
+			color: #484848;
 		}
 
 	strong, b {
